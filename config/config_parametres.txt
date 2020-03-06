@@ -1,0 +1,8 @@
+---NbResPage
+10
+---DiffMaxPinyin
+10
+---DiffMaxChinois
+5
+---DiffMaxFrancais
+20

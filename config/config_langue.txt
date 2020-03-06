@@ -1,0 +1,6 @@
+---LangueStart
+Francais
+---ModeChinois
+Simpli
+---VersChinois
+True
