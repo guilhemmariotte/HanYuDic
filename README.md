@@ -25,7 +25,7 @@ The author specifically disclaims any warranties, including, but not limited to,
 
 Required files
 --------------
-The executable bundled with the source files must be run with the folders `data/`, `config/` and `txt/` in the same directory. The dictionary database are found in the `data/` folder. It contains the original `.u8` files from the CFDict, CC-CEDict and HanDeDict projects. HanYuDic uses the XML versions of these database, which can be directly obtained with the conversion module of the application. When HanYuDic is launched, this module is found `File menu > Database conversion to XML...`. Other (for now empty) separate files are stored in the `data/` folder, they correspond to the dictionary database extensions where the user can add entries (in the application, through `File menu > Add entry...`).
+The executable bundled with the source files must be run with the folders `data/`, `config/` and `txt/` in the same directory. The dictionary database are found in the `data/` folder. It contains the original `.u8` files from the CFDict, CC-CEDict and HanDeDict projects. HanYuDic uses the XML versions of these database, which can be directly obtained with the conversion module of the application. When HanYuDic is launched, this module is found via `File menu > Database conversion to XML...`. Other (for now empty) separate files are stored in the `data/` folder, they correspond to the dictionary database extensions where the user can add entries (in the application, via `File menu > Add entry...`).
 
 
 Database
