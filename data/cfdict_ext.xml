@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+CFDICT extended
+
+Mots ou expressions ajoutés par l'utilisateur pour compléter le fichier source "cfdict.xml" dans la recherche
+-->
+<dic>
+  <word>
+    <traditional>母后</traditional>
+    <simplified>母后</simplified>
+    <pinyin>"mu3hou4"</pinyin>
+    <translations>
+      <translation><![CDATA[Mère (Ancien Chinois, dénominatif utilisé par les enfants de la famille royale pour appeler leur mère, la reine)]]></translation>
+    </translations>
+  </word>
+  <word>
+    <traditional>脫了褲子放屁</traditional>
+    <simplified>脱了裤子放屁</simplified>
+    <pinyin>"tuo1le5ku4zi3fang4pi4"</pinyin>
+    <translations>
+      <translation><![CDATA[(expression idiomatique) enlever son pantalon pour péter]]></translation>
+      <translation><![CDATA[faire quelque chose qui ne sert à rien]]></translation>
+    </translations>
+  </word>
+  <word>
+    <traditional>英格瑪伽雷曼</traditional>
+    <simplified>英格玛伯格曼</simplified>
+    <pinyin>"ying1ge2ma3bo2ge2man4"</pinyin>
+    <translations>
+      <translation><![CDATA[Ingmar Bergman]]></translation>
+    </translations>
+  </word>
+</dic>
