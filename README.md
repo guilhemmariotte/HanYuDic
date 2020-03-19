@@ -33,7 +33,7 @@ Database
 The original database files can be downloaded from the different project websites:
 - CFDict: https://chine.in/mandarin/dictionnaire/CFDICT/
 - CC-CEDict: https://www.mdbg.net/chinese/dictionary?page=cedict
-- HanDeDict: https://github.com/zydeo/HanDeDict / http://www.handedict.de/
+- HanDeDict: https://github.com/zydeo/HanDeDict | http://www.handedict.de/
 
 
 Known issue while editing files from HanYuDic on Windows 10
