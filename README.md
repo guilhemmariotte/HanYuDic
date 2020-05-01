@@ -4,6 +4,8 @@ Open source Chinese–French/English/German dictionnary using the open source da
 
 v2.0 - 2012. Guilhem Mariotte
 
+![Image](hanyudic_sources_en/imgDico.ico "icon")
+
 License
 -------
 This application is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
