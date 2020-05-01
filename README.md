@@ -4,7 +4,7 @@ Open source Chinese–French/English/German dictionnary using the open source da
 
 v2.0 - 2012. Guilhem Mariotte
 
-![Image](hanyudic_sources_en/imgDico.ico "icon")
+![Image](hanyudic_source_en/imgDico.ico "icon")
 
 License
 -------
